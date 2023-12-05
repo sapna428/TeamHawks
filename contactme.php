@@ -51,7 +51,6 @@ $alert = '<div class="alert-error">
 
 
 
-
         
 
         }
